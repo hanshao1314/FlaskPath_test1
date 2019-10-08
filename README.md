@@ -1,2 +1,2 @@
 # FlaskPath_test1
-Flask项目创建
+This is a shopping cart item, wish everyone shopping happy
